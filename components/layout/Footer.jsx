@@ -8,7 +8,7 @@ const Footer = () => {
                 <p>We are trying to give you the best taste possible.</p>
                 <br />
                 <em>We give attention to genuine feedback.</em>
-                <strong>All rights reserved @burgershop</strong>
+                <strong>All right received @burgershop</strong>
             </div>
             <aside>
                 <h4>Follow Us</h4>

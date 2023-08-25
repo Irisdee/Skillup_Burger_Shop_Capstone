@@ -10,10 +10,10 @@ const About = () => {
                 <article>
                     <h4>Burger Shop</h4>
                     <p>
-                        This is <em>Burger Shop</em>. The place for the tastiest burgers on earth!
+                        This is Burger Shop. The place for the tastiest burgers on the planet!
                     </p>
                     <p>
-                        Explore the various types of food and burgers. Click below to see the menu
+                        Explore the various type of food and burgers. Click below to see the  menu
                     </p>
                     <Link to="/">
                         <RiFindReplaceLine />
